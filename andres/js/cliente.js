@@ -55,6 +55,5 @@ function agregarCliente() {
 
 // Función para listar clientes (por implementar)
 function listarClientes() {
-  // Aquí deberías implementar la lógica para obtener la lista de clientes del servidor
-  // y mostrarlos en la tabla #clientesTableBody
+
 }
